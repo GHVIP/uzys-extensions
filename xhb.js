@@ -1,5 +1,6 @@
 const appConfig = {
-    _webSite: 'https://wp.huban.xyz',
+    _webSite: 'http://45.207.212.215:12121
+',
     /**
      * 网站主页，uz 调用每个函数前都会进行赋值操作
      * 如果不想被改变 请自定义一个变量
