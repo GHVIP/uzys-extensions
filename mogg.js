@@ -34,27 +34,22 @@ async function getClassList(args) {
     backData.data = [
         {
             type_id: '1',
-            type_name: '木偶电影',
+            type_name: '电影',
             hasSubclass: false,
         },
         {
             type_id: '2',
-            type_name: '木偶剧集',
+            type_name: '剧集',
             hasSubclass: false,
         },
         {
             type_id: '3',
-            type_name: '木偶动漫',
-            hasSubclass: false,
-        },
-        {
-            type_id: '4',
-            type_name: '木偶纪录片',
+            type_name: '动漫',
             hasSubclass: false,
         },
         {
             type_id: '25',
-            type_name: '木偶综艺片',
+            type_name: '综艺',
             hasSubclass: false,
         },
     ]
