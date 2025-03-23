@@ -1,5 +1,5 @@
 const appConfig = {
-    _webSite: 'http://txfyyds.top',
+    _webSite: 'http://www.xn--ghqy10g1w0a.xyz',
     /**
      * 网站主页，uz 调用每个函数前都会进行赋值操作
      * 如果不想被改变 请自定义一个变量
